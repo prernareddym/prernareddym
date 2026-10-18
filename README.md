@@ -34,6 +34,13 @@ These are personal projects I built to practice and show how I structure, test a
 | [cloud-native-graphql-service](https://github.com/prernareddym/cloud-native-graphql-service) | GraphQL API with DataLoader batching, plus Docker, Kubernetes manifests, Terraform and a CI pipeline | Node.js, TypeScript, GraphQL, Docker, Kubernetes, Terraform |
 | [masters-project](https://github.com/prernareddym/masters-project) | Machine-learning notebook from my master's program: classification and clustering experiments | Python, scikit-learn, XGBoost, TensorFlow/Keras |
 
+## LLM projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [llm-finetune-lora](https://github.com/prernareddym/llm-finetune-lora) | LoRA fine-tuning of a small causal LM on an instruction dataset, with perplexity evaluation and adapter inference | Python, PyTorch, Transformers, PEFT, Datasets |
+| [llm-inference-api](https://github.com/prernareddym/llm-inference-api) | FastAPI service with streaming text generation, Docker packaging and optional LoRA adapters | Python, FastAPI, Transformers, Docker |
+
 ## Get in touch
 
 - GitHub: [@prernareddym](https://github.com/prernareddym)
